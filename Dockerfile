@@ -1,2 +1,2 @@
 FROM tomcat
-COPY ./target/*.war /usr/local/tomcat/webapps/*.war
+COPY ./target/sparkjava-hello-world-1.0.war /usr/local/tomcat/webapps/sparkjava-hello-world-1.0.war
